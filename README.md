@@ -1,6 +1,6 @@
 # Job Portal Project
 
-This project is a job portal website created using [insert technologies used].
+This project is a job portal website created using [front end + back end and mysql as a database ].
 
 ## Getting Started
 
@@ -23,9 +23,9 @@ To get a copy of the project up and running on your local machine, follow these 
 
 ## Features
 
-- Feature 1
-- Feature 2
-- ...
+- it is a complete job portal with user authenticaton (register/ login)
+- can post and apply for the different jobs thoughout the world
+- secure and fast
 
 ## Contributing
 
@@ -37,4 +37,4 @@ Feel free to contribute to this project by following these steps:
 
 ## License
 
-This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MUBASHIR AHMAD] License -
